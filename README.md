@@ -1,2 +1,2 @@
-# oidn-recipes
+# odin-recipes
 Basic HTML Recpie Project
